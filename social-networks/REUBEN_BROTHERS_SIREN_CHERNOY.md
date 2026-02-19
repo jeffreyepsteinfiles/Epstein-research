@@ -2,7 +2,7 @@
 
 ## An Investigation into David and Simon Reuben in the Epstein Files
 
-*Based on 163 documents across Datasets 9, 10, 11, and 99 of the DOJ EFTA production*
+*Based on 164 documents across Datasets 9, 10, and 11 of the DOJ EFTA production*
 
 ---
 
@@ -290,10 +290,10 @@ Reuben Jeffery III is not related to the Reuben brothers and appears in an entir
 - FTS5: `siren`, `siren AND yacht`, `siren AND reuben`
 
 ### Corpus Coverage
-- **202 pages** across **163 unique documents** match "reuben"
-- **9 pages** match Chernoy/Chernov/Cherney variants combined
-- **34 pages** across **29 documents** match "siren" (13 relevant to the yacht)
-- Documents span Datasets 9, 10, 11, and 99 (House Oversight)
+- **209 pages** across **164 unique documents** match "reuben" (includes unrelated individuals such as Reuben Jeffery III and Reuben Kobulnik)
+- **32 pages** across **32 documents** match Chernoy/Chernov/Cherney variants combined (many from repeated Dilorio whistleblower letters)
+- **419 pages** across **353 documents** match "siren" (most are unrelated uses of the common English word; approximately 13 are relevant to the yacht)
+- Documents span Datasets 9, 10, and 11
 
 ### Duplicate Handling
 Many emails appear in multiple datasets (DS9, DS10, DS11) as separate EFTA numbers. Where duplicates were identified, all EFTA numbers are cited. The narrative prioritizes the most complete version of each email.

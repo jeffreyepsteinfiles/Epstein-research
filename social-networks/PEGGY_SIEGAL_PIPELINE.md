@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-**Peggy Siegal** — the New York film publicist who ran "The Peggy Siegal Company" from 750 Lexington Avenue — maintained one of the most extensive documented relationships with Jeffrey Epstein in the entire EFTA corpus. Her **8,094-page / 7,076-document** footprint makes her the third-largest named presence after Ghislaine Maxwell and Epstein himself.
+**Peggy Siegal** — the New York film publicist who ran "The Peggy Siegal Company" from 750 Lexington Avenue — maintained one of the most extensive documented relationships with Jeffrey Epstein in the entire EFTA corpus. Her **8,094-page / 7,076-document** footprint makes her one of the largest named presences in the corpus outside Epstein's immediate staff (Lesley Groff, Richard Kahn) and inner circle (Ghislaine Maxwell).
 
 The documents reveal Siegal operating as far more than a publicist. She functioned as Epstein's **social intelligence network** — a one-woman reconnaissance operation who attended film festivals, galas, premieres, and private parties across the globe, then reported back to Epstein with detailed assessments of who she met, what they were worth, and whether they'd be useful to him. She introduced specific individuals to Epstein with explicit pitches. She curated his dinner party guest lists with A-list media figures and Wall Street titans. She organized private film screenings that doubled as social engineering events. And she simultaneously performed the same functions for **Harvey Weinstein**.
 
@@ -46,7 +46,7 @@ This email is dated just before Epstein's release from his first sentence. Siega
 
 > *"Ask him if we can introduce him to Michel Hazanavicius...the lovely gentle director of 'The Artist' who won the Oscar for best picture and best director. He is 44 and very low key and brilliant."*
 >
-> — EFTA01985194 (DS10)
+> — EFTA01987205 (DS10)
 
 Epstein replied: *"We will meet"* and *"have to go very very slow."*
 
@@ -60,9 +60,11 @@ Siegal framed her role explicitly:
 
 > *"I think Woody needs to SLOWLY meet a few key new culture kids to keep him updated. No one else can do this for him but you and me."*
 >
+> — EFTA01839953 (DS10)
+
 > *"Ask Michel who are the hot actresses or cultural gals in Paris. He is 44 and will know everyone. I am always looking but think you need European royalty."*
 >
-> — EFTA01839797 (DS10)
+> — EFTA01840087 (DS10)
 
 The language — "I am always looking" — positions Siegal as a permanent scout for new people to bring into Epstein's orbit.
 
@@ -82,7 +84,7 @@ Siegal organized a screening of *Young Victoria* for the Duchess, coordinating w
 
 > *"Just heard from Ghislaine — she can do in her house Friday, Dec. 18."*
 >
-> — EFTA01780224 (DS10)
+> — EFTA00886389 (DS9)
 
 She asked Epstein for **$20,000** to fund the event.
 
@@ -92,7 +94,7 @@ Siegal recommended van Wyck as a personal event coordinator for all of Epstein's
 
 > *"Jeffrey Epstein says he would like a person to coordinate large dinner parties at all his homes...the Caribbean island, Palm Beach, the Santa Fe Ranch, Paris, NY, and travel up to 3 times a week..."*
 >
-> — EFTA02079345 (DS11)
+> — EFTA02079345 (DS10)
 
 ---
 
@@ -147,7 +149,7 @@ Siegal coordinated Epstein's table at the Chaplin Gala at Lincoln Center. Confir
 - Marisa Tomei
 - Christopher Walken
 
-> — EFTA02211482 (DS11)
+> — EFTA02211482 (DS10)
 
 ---
 
@@ -253,7 +255,7 @@ In June 2011, Weinstein attempted to share Epstein's plane:
 
 Epstein's response: **"don't."**
 
-> — EFTA02014721 (DS10)
+> — EFTA01863580 (DS10) (request also at EFTA02014721)
 
 ---
 
@@ -272,7 +274,7 @@ Siegal's professional function — organizing private film screenings — served
 | Apr 2013 | *The Company You Keep* | MoMA | Siegal pitched Brit Marling to Epstein |
 | Nov 2013 | *Nebraska* | Paris Theater | Bruce Dern, Will Forte |
 | Oct 2015 | *Suffragette* | — | Carey Mulligan, Meryl Streep |
-| Dec 2013 | Gotham Awards | Cipriani Wall St. | Epstein paid $8,000 for ballroom chairs |
+| Dec 2012 | Gotham Awards | Cipriani Wall St. | Epstein paid $8,000 for ballroom chairs |
 | May 2017 | Chaplin Gala | Lincoln Center | Epstein's table: Katie Couric, Sarah Silverman, Marisa Tomei, Christopher Walken |
 | Nov 2017 | *Get Out* | — | Siegal urged Epstein to attend; he declined |
 
@@ -289,7 +291,7 @@ The documents reveal that Epstein provided substantial financial support to Sieg
 ### The $100,000 Birthday Gift — July 2017
 
 For Siegal's 70th birthday, Epstein gave her **$100,000**. The corpus tracks where the money went:
-- **$15,000**: Elton John concert tickets
+- **$15,000**: Elton John's AIDS Foundation (enabling attendance at his house party)
 - **~$30,000**: Birthday party at Avie and Gigi Mortimer's home in Southampton
 - **$39,123**: Leopard-print rug from Stark (for apartment renovation)
 - Remainder: Additional apartment renovation costs
@@ -299,7 +301,7 @@ For Siegal's 70th birthday, Epstein gave her **$100,000**. The corpus tracks whe
 ### Travel and Events
 
 - **Venice Film Festival**: $25,000 PR services invoice [EFTA02184960] plus $3,003.80 Delta Airlines travel [EFTA01816138]
-- **Cannes Film Festival**: $800 Haiti charity ticket [EFTA02032076] plus general PR invoices
+- **Cannes Film Festival**: Haiti charity event ticket [EFTA02032076] plus general PR invoices
 - **Gotham Awards**: $8,000 for ballroom chairs [EFTA02155686]
 - **Young Victoria screening**: $20,000 [EFTA01780224]
 
@@ -392,14 +394,17 @@ The financial dependency ($100K gifts, event funding, estate management) ensured
 | EFTA02429452 | 11 | Siegal to Epstein: Reuben introduction pitch |
 | EFTA01830766 | 10 | Siegal: "What about Tamara Mellon" |
 | EFTA01780329 | 10 | Siegal: Mario Platero introduction |
-| EFTA01985194 | 10 | Siegal: Hazanavicius introduction |
-| EFTA01839797 | 10 | Siegal: Lena Dunham pitch + "culture kids" |
+| EFTA01987205 | 10 | Siegal: Hazanavicius introduction |
+| EFTA01839797 | 10 | Siegal: Lena Dunham pitch |
+| EFTA01839953 | 10 | Siegal: "culture kids" / social rehabilitation framing |
+| EFTA01840087 | 10 | Siegal: "I am always looking" |
 | EFTA01897171 | 10 | Groff: "Peggy wants you to meet Brit Marling" |
-| EFTA01780224 | 10 | Siegal: Sarah Ferguson screening at Maxwell's |
-| EFTA02079345 | 11 | Siegal: Bronson van Wyck as event coordinator |
+| EFTA00886389 | 9 | Siegal: "Ghislaine can do in her house" for Ferguson screening |
+| EFTA01780224 | 10 | Siegal: Sarah Ferguson screening logistics and $20K request |
+| EFTA02079345 | 10 | Siegal: Bronson van Wyck as event coordinator |
 | EFTA01898787 | 10 | Siegal: Dinner guest list (media/finance A-list) |
 | EFTA01980585 | 10 | Prince Andrew dinner organization |
-| EFTA02211482 | 11 | Chaplin Gala table coordination |
+| EFTA02211482 | 10 | Chaplin Gala table coordination |
 | EFTA01828642 | 10 | Cannes 2009 dispatch |
 | EFTA02170048 | 10 | Cannes 2012 full schedule |
 | EFTA02007018 | 10 | Oscar 2012: "How do I get rid of Ghislaine Maxwell!" |
@@ -409,10 +414,11 @@ The financial dependency ($100K gifts, event funding, estate management) ensured
 | EFTA01832862 | 10 | Intelligence forwarded to Weinstein |
 | EFTA01839698 | 10 | "Harvey, a world class BULLY" |
 | EFTA01788816 | 10 | "He owes me $90,000" |
-| EFTA02014721 | 10 | Weinstein plane request; Epstein: "don't" |
+| EFTA01863580 | 10 | Epstein: "don't" (reply to Weinstein plane request) |
+| EFTA02014721 | 10 | Groff: Weinstein plane request to Epstein |
 | EFTA01975378 | 10 | Zero Dark Thirty: "my date Jeff Epstein" |
 | EFTA02370977 | 11 | $100K birthday gift |
-| EFTA02184960 | 11 | Venice $25K invoice |
+| EFTA02184960 | 10 | Venice $25K invoice |
 | EFTA01746604 | 10 | Estate settlement: $157,756 |
 
 ---

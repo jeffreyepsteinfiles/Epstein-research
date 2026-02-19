@@ -73,7 +73,7 @@ These individuals appear in substantial documentation, often including direct co
 
 **Guest list entry:** *"18. David Geffen — a. On Roman's boat"*
 
-Geffen's page count is partially inflated by the "David Geffen School of Medicine at UCLA" appearing in email signatures throughout the corpus. However, genuine personal references include event invitations forwarded to Epstein (particularly the PBS documentary premiere *Inventing David Geffen* in 2012) and a notable email from **Boris Nikolic** to Epstein: *"Bill is having a small dinner with just David Geffen and me"* — placing Geffen at an intimate dinner with Bill Gates in Epstein's correspondence.
+Geffen's page count is partially inflated by the "David Geffen School of Medicine at UCLA" appearing in email signatures throughout the corpus. However, genuine personal references include event invitations forwarded to Epstein (particularly the PBS documentary premiere *Inventing David Geffen* in 2012) and a notable email from **Boris Nikolic** to Epstein: *"Bill is having a small dinner in his home with just David Geffen and me"* — placing Geffen at an intimate dinner with Bill Gates in Epstein's correspondence.
 
 Listed as traveling on Roman Abramovich's yacht for St. Barths.
 
@@ -124,10 +124,6 @@ The corpus documents a direct social relationship between Kotick and Epstein:
 
 The connection between Maxwell staying on Kotick's boat and Kotick's documented dinners at Epstein's home warrants further examination.
 
----
-
-### Tier 3: Moderate Corpus Presence (20-99 pages)
-
 #### Steve Cohen — 125 pages / 122 documents
 
 **Not on the guest list itself** — but named in Siegal's cover email: *"Steve Cohen next door to Aby (just met him)."*
@@ -139,6 +135,10 @@ The hedge fund billionaire has a significant and diverse corpus presence. Epstei
 **Guest list entry:** *"3. Samantha Boardman / Aby Rosen — a. Have a house next to Isle de France"*
 
 The German-American real estate developer had a **direct, active relationship** with Epstein. Epstein's assistant Lesley Groff emailed Rosen's office to schedule meetings in NYC (January-February 2011). Epstein's calendar entries show "Aby Rosen's office" as a meeting location. Siegal discussed Rosen in social-planning emails: *"Larry only eats with collectors...Aby Rosen and Samantha are cool."* Real estate news was forwarded to Epstein: *"Prime Minister of Qatar snaps up Aby Rosen's UES party mansion for $47 million."* Attorney Terry Kafka asked Epstein in January 2014: *"Do you know Aby Rosen?"*
+
+---
+
+### Tier 3: Moderate Corpus Presence (20-99 pages)
 
 #### Jane Rosenthal — 87 pages / 82 documents
 
@@ -174,13 +174,13 @@ The Russian-Israeli oligarch is listed first on the guest list, with his then-pa
 
 **Guest list entry:** *"19. Suzanne / Woody Johnson — a. Dec 22nd — b. Staying at Isle de France"*
 
-The New York Jets owner and later U.S. Ambassador to the UK appears on Siegal's event invite lists alongside Jared Kushner, Michael Bloomberg, and Donald Trump (e.g., NY Observer 25th Anniversary). Most notably, a Ghislaine Maxwell chat log contains: **"Woody Johnson ambassador to London. Wife, my old assistant."** — indicating Maxwell had a prior employment or personal assistant relationship with Woody Johnson's wife. Also appears on dinner/party guest lists compiled by Siegal for Epstein events.
+The New York Jets owner and later U.S. Ambassador to the UK appears on Siegal's event invite lists alongside Jared Kushner, Michael Bloomberg, and Donald Trump (e.g., NY Observer 25th Anniversary). An Epstein iMessage conversation with Anil Ambani (EFTA01618751) contains two separate messages: **"Woody Johnson London. Wife, my old assistant"** and, hours later, **"Woody Johnson ambassador to London"** — indicating Epstein claimed a prior employment or personal assistant relationship with Johnson's wife. Also appears on dinner/party guest lists compiled by Siegal for Epstein events.
 
 #### Samantha Boardman — 48 pages / 30 documents
 
 **Guest list entry:** *"3. Samantha Boardman / Aby Rosen — a. Have a house next to Isle de France"*
 
-The psychiatrist and socialite (married to Aby Rosen) appears in Siegal's St. Barths email: *"Do you know Samantha and Aby?"* More significantly, she appears in a **2002 New York Post "Page Six" article** titled "MURKY WORLD OF CLINTON PAL" — the article that contains the famous Trump quote about Epstein: *"He likes beautiful women as much as I do, and many of them are on the younger side."* The article lists Boardman alongside Epstein, Clinton, and Trump.
+The psychiatrist and socialite (married to Aby Rosen) appears in Siegal's St. Barths email: *"Do you know Samantha and Aby?"* She also appears in the same October 20, 2002 New York Post "Page Six" column titled "MURKY WORLD OF CLINTON PAL" that contains the famous Trump quote about Epstein — though Boardman is mentioned in a separate gossip item about her love life, not in the Epstein/Clinton/Trump portion of the column.
 
 #### Vivi Nevo — 44 pages / 43 documents
 
@@ -253,7 +253,7 @@ These individuals appear primarily or exclusively on the guest list documents, w
 | 25 | Benny Medina | 19 | 19 | Guest lists + event invitation lists (LWP event with Ben Affleck, Sean Penn) |
 | 30 | Dan Neidich | 18 | 18 | Guest lists + Whitney Museum Taubman book launch co-host |
 | 33 | Salma Hayek | 16 | 14 | Siegal dispatches; OCR'd as "Selma Hyak" on guest list |
-| 12 | Craig Hatkoff | 14 | 11 | Paired with Jane Rosenthal; Siegal contacted re: accountant referrals for Epstein |
+| 37 | Craig Hatkoff | 14 | 11 | Paired with Jane Rosenthal; Siegal contacted re: accountant referrals for Epstein |
 | 35 | L.A. Reid | 14 | 13 | Siegal: "Went to record producer LA Reid's for dinner on mountain top home" |
 | 16 | John Hess | 11 | 10 | Guest lists + Whitney Museum book launch co-host |
 | 29 | Tico Mugrabi | 11 | 11 | Guest list only (listed with question mark: "Tico Mugrabi?") |
@@ -346,13 +346,13 @@ David and Debra Reuben (entry #36) were aboard their 242-foot yacht Siren. Their
 
 Patrick Demarchelier (entry #11), the fashion photographer with a home in St. Barths, appears in the corpus in email threads between **Jean Luc Brunel** and Jeffrey Epstein. Brunel — the modeling agent who was a convicted Epstein associate and died in custody in February 2022 — wrote about traveling *"with Patrick Demarchelier and Russian Vogue to St. Petersburg"* in April 2012. This places Demarchelier in direct professional contact with Brunel during the period of Epstein's continued social activity.
 
-### Woody Johnson and Ghislaine Maxwell
+### Woody Johnson and Epstein
 
-Woody Johnson (entry #19) — the New York Jets owner who became U.S. Ambassador to the UK under Trump — appears in a Ghislaine Maxwell chat log with the note: **"Woody Johnson ambassador to London. Wife, my old assistant."** This indicates Maxwell had a prior employment or personal assistant relationship with Johnson's wife, Suzanne Ircha Johnson. Johnson also appears on Siegal's event invite lists alongside Jared Kushner, Michael Bloomberg, and Donald Trump.
+Woody Johnson (entry #19) — the New York Jets owner who became U.S. Ambassador to the UK under Trump — appears in an Epstein iMessage conversation with Anil Ambani (EFTA01618751): **"Woody Johnson London. Wife, my old assistant"** and later **"Woody Johnson ambassador to London."** This indicates Epstein claimed a prior employment or personal assistant relationship with Johnson's wife, Suzanne Ircha Johnson. Johnson also appears on Siegal's event invite lists alongside Jared Kushner, Michael Bloomberg, and Donald Trump.
 
 ### The Aby Rosen Hub
 
-Aby Rosen (entry #3), the real estate developer, had a **direct active relationship** with Epstein — documented through scheduled meetings via Lesley Groff, calendar entries showing "Aby Rosen's office" as a meeting location, and real estate news forwarded between them. His St. Barths home functioned as a social hub: Bob Colacello (entry #10) was staying at Rosen's, and Steve Cohen (not on the list but mentioned in the cover email) was "next door to Aby." Rosen's wife Samantha Boardman appears in a 2002 Page Six article that contains the well-known Trump quote about Epstein.
+Aby Rosen (entry #3), the real estate developer, had a **direct active relationship** with Epstein — documented through scheduled meetings via Lesley Groff, calendar entries showing "Aby Rosen's office" as a meeting location, and real estate news forwarded between them. His St. Barths home functioned as a social hub: Bob Colacello (entry #10) was staying at Rosen's, and Steve Cohen (not on the list but mentioned in the cover email) was "next door to Aby." Rosen's wife Samantha Boardman appears in the same 2002 Page Six column that contains the well-known Trump quote about Epstein (though in a separate gossip item).
 
 ### Steve Cohen — Not on the List, But Present
 
@@ -395,8 +395,6 @@ Each of the 43 names was searched using FTS5 exact phrase matching against the `
 | EFTA02152808 | 10 | Music pitch referencing Lorne Michaels |
 | EFTA01941259 | 10 | Epstein assistant: "Martha Stewart on St. Croix Dec 23-Jan 2" |
 | EFTA01754806 | 10 | Pigozzi to Epstein: "Love woody, see you in Paris" |
-| EFTA01941259 | 10 | Epstein assistant: "Martha Stewart on St. Croix Dec 23-Jan 2" |
-| EFTA02006674 | 10 | Nikolic: "Bill is having a small dinner with just David Geffen and me" |
 
 ---
 
