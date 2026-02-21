@@ -151,9 +151,9 @@ Dataset 9 accounts for **97.4% of all removals** (76,230 of 78,234). This is the
 
 Separately, we compared the Content-Length reported by the DOJ server for documents that *are* still accessible against the original file sizes recorded in our database (extracted from the original production). Of the documents returning HTTP 200:
 
-- **23,989 documents have file sizes smaller than their originals** — every mismatch is a *reduction*, never an increase
-- The largest reduction: one document lost 67% of its original file size (from 22.7 MB to 7.5 MB)
-- This suggests post-publication re-processing or content removal that has not been disclosed
+- **23,989 documents have different file sizes than their originals** — 20,276 (84.5%) are smaller, 3,713 (15.5%) are larger
+- The largest reduction lost 99% of its original file size; the largest increase grew over 500%
+- Unlike the removals (concentrated in Dataset 9), size changes are spread across Datasets 9, 10, and 11 — suggesting a different post-publication re-processing pattern that has not been disclosed
 
 ### Open Data
 
