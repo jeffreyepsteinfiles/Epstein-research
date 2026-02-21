@@ -62,7 +62,7 @@ Section 2(c) defines exactly five categories of material the Attorney General *m
 
 Even where one of these five carveouts applies, the statute imposes a procedural requirement that the DOJ has not followed. Section 2(c)(2) mandates: **"All redactions must be accompanied by written justification published in the Federal Register and submitted to Congress."** The Attorney General must declassify to the maximum extent possible and, for any material that cannot be declassified, must release an unclassified summary.
 
-As of this writing, no Federal Register notice has been published justifying the removal of 78,234 documents. No unclassified summaries have been provided. No Congressional notification has been submitted. The removals are, on their face, procedurally non-compliant with the statute regardless of whether any substantive carveout might apply to individual documents.
+As of this writing, no Federal Register notice has been published justifying the removal of 78,234 documents. No unclassified summaries have been provided. On February 14, 2026, the Attorney General submitted a report to Congress listing categories of records released and withheld — the report required by Section 3 of the EFTA. That report does not constitute the Federal Register publication required separately by Section 2(c)(2). The removals are, on their face, procedurally non-compliant with the statute regardless of whether any substantive carveout might apply to individual documents.
 
 ### The DOJ's Stated Explanation
 
@@ -560,7 +560,7 @@ We say this not to excuse the DOJ, but to underscore the scale of the problem *t
 
 ### 1. Procedural Non-Compliance
 
-The removal of 78,234 documents without published Federal Register justification violates Section 2(c)(2) of the EFTA on its face. The statute does not contain an exception for post-publication removal. Every withholding, every redaction requires written justification published in the Federal Register and submitted to Congress. None has been provided.
+The removal of 78,234 documents without published Federal Register justification violates Section 2(c)(2) of the EFTA on its face. The statute does not contain an exception for post-publication removal. Every withholding, every redaction requires written justification published in the Federal Register and submitted to Congress. The Attorney General's February 14, 2026 report to Congress — required by Section 3 — lists categories of withheld material but is not a Federal Register publication.
 
 ### 2. Wholesale Removal vs. Narrowly Tailored Redaction
 
