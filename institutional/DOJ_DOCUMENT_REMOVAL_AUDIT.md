@@ -8,7 +8,7 @@
 
 Between February 18 and 20, 2026, we conducted a comprehensive HTTP integrity scan of every document in the Department of Justice's Epstein Files Transparency Act (EFTA) production hosted at justice.gov/epstein. Of the 1,380,941 documents in the production corpus, we successfully scanned 1,365,677 (98.89%). The results reveal that **78,234 documents — 5.7% of the entire production — now return HTTP 404 (Not Found)**. These files were part of the original DOJ publication but have been silently removed from the public server without any Federal Register notice, without Congressional notification, and without published legal justification — all of which are required by the statute.
 
-Manual browser verification using Playwright (which executes JavaScript and passes the DOJ's Akamai CDN challenge) confirms these are real removals, not scanner artifacts.
+Manual browser verification confirms these are real removals, not scanner artifacts.
 
 The removed documents are not random. They are concentrated overwhelmingly in Dataset 9 — the dataset containing the FBI's investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials. Below, we examine **ten removed documents** — organized across five categories — that contain **no victim personally identifying information** and for which **no lawful basis for removal exists** under the statute. These include: the Bureau of Prisons' detention logs and death incident report, the BOP's psychological reconstruction of Epstein's death, the FBI's 476-page death investigation file, Kenneth Starr's 36-page lobbying fax to US Attorney Acosta, the complete 51-page investigation timeline, the federal grand jury presentation outline, bank statements for an Epstein-linked shell entity, and 2,153 pages of phone records subpoenaed by the grand jury.
 
@@ -102,7 +102,7 @@ All 78,234 documents flagged as HTTP 404 were submitted to a second verification
 
 ### Manual Playwright Verification
 
-Because the DOJ's Akamai CDN serves a JavaScript challenge page before delivering content, standard HTTP tools (curl, wget) can return misleading results. We verified a sample of removed documents using Playwright, a headless browser that executes JavaScript and renders pages as a real browser would. Playwright confirmed: removed documents display the DOJ's standard 404 error page. Present documents load as PDFs.
+Because the DOJ's Akamai CDN serves a JavaScript challenge page before delivering content, standard HTTP tools (curl, wget) can return misleading results. We confirmed a sample of removed documents by loading them in standard browser sessions using Playwright, a browser automation tool. Removed documents display the DOJ's standard 404 error page. Present documents load as PDFs.
 
 ### Limitations
 
@@ -170,7 +170,7 @@ The full OCR text of every document in the EFTA corpus is searchable at [epstein
 
 The following analysis examines ten removed documents organized across five categories. Each was selected because it contains **no victim personally identifying information** and can be cited with full EFTA numbers without risk of directing readers to leaked victim PII. For each document, we provide: a description of its contents, an assessment of its relevance to the EFTA's disclosure mandate, and a carveout-by-carveout analysis of whether any lawful basis for removal exists.
 
-All ten documents were read in full from our text corpus. Local PDF copies are preserved. 404 status was verified on February 21, 2026, using Playwright browser automation with JavaScript execution and Akamai challenge completion.
+All ten documents were read in full from our text corpus. Local PDF copies are preserved. 404 status was manually verified on February 21, 2026.
 
 Our research database at [epstein-data.com](https://epstein-data.com) contains the full OCR text of every document cited below, with victim-identifying information redacted. Every EFTA link below points to the DOJ's server (which returns 404); the OCR link points to our copy.
 
@@ -463,7 +463,7 @@ At 2,153 pages, this is the single largest removed document we have identified b
 
 Since our scan was conducted (February 18-20, 2026), we have discovered that the DOJ has been **quietly restoring** some previously removed documents to justice.gov. This is a significant development with implications for both the factual record and the legal analysis.
 
-Using Playwright browser automation on February 21, 2026, we spot-checked approximately 45 documents from our flagged removal list. The results reveal two distinct waves of restoration:
+On February 21, 2026, we loaded approximately 45 documents from our flagged removal list in standard browser sessions. The results reveal two distinct waves of restoration:
 
 **Wave 1 (January 30, 2026):** A broad restoration of documents across multiple categories, with `Last-Modified` timestamps of January 30, 2026. Restored documents include:
 - BOP medical records and psychological assessments
@@ -554,23 +554,6 @@ We redacted the specific victim-identifying information we were able to confirm 
 
 We say this not to excuse the DOJ, but to underscore the scale of the problem *they created* — and to demonstrate that targeted PII redaction is achievable. We redacted 2,099 instances across 1,400 pages using two researchers and automated tools. The DOJ, with its institutional resources, chose instead to remove entire documents wholesale. This is the opposite of the "narrowly tailored" standard the statute requires.
 
-### Pattern Analysis
-
-The four documents examined in detail above total **2,850 pages**, all confirmed removed (HTTP 404). None have any plausible legal basis for removal under any of the EFTA's five carveout categories:
-
-| Document | Pages | Content | Carveout? |
-|----------|-------|---------|-----------|
-| BOP TRUINTEL Composite | 1,000 | Detention logs, GP + SHU + inventory | None |
-| BOP TRUINTEL 9 South | 395 | SHU logs — Epstein's exact unit | None |
-| BOP Psychological Reconstruction | 1,000 | Death investigation — "no video, no interviews" | None |
-| Southern Trust Company Bank Statements | 455 | USVI shell entity financials | None |
-
-Three of the four are directly responsive to Section 2(a)(9) — documentation of Epstein's detention and death. The fourth is responsive to Section 2(a)(5) — entities tied to Epstein's financial networks. These are the core categories the EFTA was enacted to disclose.
-
-### The Dataset 9 Concentration
-
-The overwhelming concentration of removals in Dataset 9 (76,230 of 78,234, or 97.4%) is significant because Dataset 9 contains the FBI's investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials. These are the categories of documents most directly responsive to the EFTA's nine disclosure categories. Datasets containing less sensitive material (depositions, court filings, public records) show removal rates below 1%.
-
 ---
 
 ## PART VI: LEGAL IMPLICATIONS
@@ -647,4 +630,4 @@ For the ten documents examined in full above, no lawful basis for removal exists
 
 ---
 
-*This analysis was conducted using Claude Code running Opus 4.6, which can make mistakes. All EFTA numbers, dataset assignments, and HTTP status codes were verified programmatically. 404 status was reverified on February 21, 2026, using Playwright browser automation with full JavaScript execution and Akamai challenge completion. Document contents were read from the extracted text corpus and cross-referenced against local PDF copies. All ten documents cited above were reviewed page by page and found to contain no victim personally identifying information before their EFTA numbers were included in this report.*
+*The bulk HTTP audit was conducted using Claude Code running Opus 4.6, which can make mistakes. All EFTA numbers, dataset assignments, and HTTP status codes were verified programmatically. All ten documents cited above were manually verified to return 404 on justice.gov as of February 21, 2026. Document contents were read from the extracted text corpus and cross-referenced against local PDF copies. All ten documents were reviewed page by page and found to contain no victim personally identifying information before their EFTA numbers were included in this report. The raw data is published on [GitHub](https://github.com/rhowardstone/Epstein-research-data/tree/main/doj_audit) for independent verification.*
